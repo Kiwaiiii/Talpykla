@@ -1,4 +1,4 @@
-!/bin/bash -x
+#!/bin/bash
 
 # A broken script. Originally written by Machtelt Garrels
 
