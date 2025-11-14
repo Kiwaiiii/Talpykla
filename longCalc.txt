@@ -1,0 +1,6 @@
+../Task5/longCalc
+
+letters="a b c d e f"
+for a in $letters ; do
+  echo "next letter is $a"
+done
